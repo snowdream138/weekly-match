@@ -37,5 +37,6 @@ gender_db = {"惠州-Joe":MALE,
             "上海-波士顿-Annie":FEMALE,
             "北京-淼淼":FEMALE,
             "泉州―绿子":FEMALE,
-            "湖南-玉树麟风":MALE
+            "湖南-玉树麟风":MALE,
+			"加州-于洋": MALE
  }
